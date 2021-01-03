@@ -1,13 +1,8 @@
 {
 
 	  "name": "nodejs-helloworld",
-
-	   ...output omitted...
-
-	     "dependencies": {
-
-		         "express": "4.14.x"
-
-			   }
+	  "dependencies": {
+	   	  "express": "4.14.x"
+	  }
 
 }
